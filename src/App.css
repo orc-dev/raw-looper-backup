@@ -1,4 +1,4 @@
-.App {
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +35,23 @@
   to {
     transform: rotate(360deg);
   }
-}
+} */
+
+
+.App {
+    text-align: center;
+  }
+  
+  .title-box {
+    margin: 20px;
+  }
+  
+  .video-box {
+    margin: 20px;
+  }
+  
+  video {
+    width: 100%;
+    max-width: 600px;
+    border: 1px solid #ccc;
+  }
